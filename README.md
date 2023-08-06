@@ -47,3 +47,5 @@ The model's performance is evaluated using the Root Mean Squared Error [RMSE]. T
 
 ## Acknowledgements
 The dataset used for this project is sourced from Zindi: (https://zindi.africa/competitions/free-ai-classes-in-every-city-hackathon-2023/data)
+
+## The Video in this repo has no audio, the reason because my system cannot capture my voice when screen recording. But i did my best to explain my codes with comments inside the notebook. Thank you
