@@ -1,9 +1,10 @@
 # Nigerian House Price Prediction
 
 ## Overview
-This project is a machine learning model built to predict house prices in Nigeria based on various features. It uses python and the Scikit-Learn library.
+Wazobia Real Estate Limited, a prominent real estate company operating in Nigeria, With a vast portfolio of properties, they strive to provide accurate and competitive pricing for houses.
+This project is a machine learning model built to predict house prices in Nigeria based on various features. It uses Python and the Scikit-Learn library.
 
-##Table of Contents
+## Table of Contents
 - Overview
 - Dataset
 - Dependencies
@@ -42,7 +43,7 @@ Replace the csv file with the path to your dataset. The script will generate pre
 The machine learning model is a regression model trained on the train dataset. The project includes a jupyter notebook: ( http://localhost:8888/notebooks/DSN%20House%20prediction.ipynb) that demonstrates the data preprocessing, model training, and evaluation steps.
 
 ## Evaluation
-The model's performance is evaluated using the Root Mean Squared Error [RMSE]. The evaluation results can be found in ....
+The model's performance is evaluated using the Root Mean Squared Error [RMSE]. The evaluation results can be found inside the repo.
 
 ## Acknowledgements
 The dataset used for this project is sourced from Zindi: (https://zindi.africa/competitions/free-ai-classes-in-every-city-hackathon-2023/data)
