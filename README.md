@@ -43,7 +43,7 @@ Replace the csv file with the path to your dataset. The script will generate pre
 The machine learning model is a regression model trained on the train dataset. The project includes a jupyter notebook: ( http://localhost:8888/notebooks/DSN%20House%20prediction.ipynb) that demonstrates the data preprocessing, model training, and evaluation steps.
 
 ## Evaluation
-The model's performance is evaluated using the Root Mean Squared Error [RMSE]. The evaluation results can be found inside the repo.
+The model's performance is evaluated using the Root Mean Squared Error [RMSE]. The evaluation results can be found inside the pdf report present inside this repo.
 
 ## Acknowledgements
 The dataset used for this project is sourced from Zindi: (https://zindi.africa/competitions/free-ai-classes-in-every-city-hackathon-2023/data)
